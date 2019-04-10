@@ -21,5 +21,5 @@ insert into char_acc(id_acc, id_char) values(1,3);
 insert into char_acc(id_acc, id_char) values(4,4);
 insert into char_acc(id_acc, id_char) values(5,5);
 insert into char_acc(id_acc, id_char) values(5,6);
-insert into room(name, max_users, create_date, room_file) values('Room1', 4, '08.04.2019', '/rooms/Room1');
-insert into room(name, max_users, create_date, room_file) values('Room2', 6, '09.04.2019', '/rooms/Room2');
+insert into room(name, max_users, create_date, room_file) values('Room1', 4, '08.04.2019', '/rooms/Room1.json');
+insert into room(name, max_users, create_date, room_file) values('Room2', 6, '09.04.2019', '/rooms/Room2.json');
